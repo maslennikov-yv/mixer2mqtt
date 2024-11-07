@@ -1,0 +1,11 @@
+{
+  "name": "amixer2mqtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mqtt": "^5.10.1",
+    "shelljs": "^0.8.5"
+  }
+}
